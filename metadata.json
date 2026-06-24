@@ -1,0 +1,6 @@
+{
+  "name": "Voxis - Restaurant AI Voice Assistant",
+  "description": "Never miss a reservation again. Meet Marco, the AI voice assistant built for South African restaurants.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
